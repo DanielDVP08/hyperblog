@@ -8,10 +8,6 @@ body{
     text-align: left;
     padding: 20px;
 }
-<<<<<<< HEAD
-.contenedor p{
-    color: #509c50;
-=======
 .contenedor__cabecera{
     border: 1px solid #3633f1;
     padding: 20px;
@@ -28,5 +24,4 @@ body{
 .contenedor__cabecera strong{
     font-size: 15px;
     color: #ffffff;
->>>>>>> cabecera
 }
