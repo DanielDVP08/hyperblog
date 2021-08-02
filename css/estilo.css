@@ -8,6 +8,9 @@ body{
     text-align: left;
     padding: 20px;
 }
+.contenedor p{
+    color: #5bbd5b;
+}
 .contenedor__cabecera{
     border: 1px solid #3633f1;
     padding: 20px;
