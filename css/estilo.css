@@ -1,5 +1,5 @@
 body{
-    color: #fa6551;
+    color: #000;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -7,24 +7,25 @@ body{
     border: 1px solid #111111;
     text-align: left;
     padding: 20px;
+    background: #d67f74;
 }
 .contenedor p{
-    color: #5bbd5b;
+    color: #387738;
 }
 .contenedor__cabecera{
     border: 1px solid #3633f1;
     padding: 20px;
     background: #3633f1;
+    color: #ffffff;
 }
 .contenedor__titulo{
     text-align: center;
 }
-.contenedor__cabecera span{
+.contenedor__cabecera strong{
     font-size: 20px;
     margin-right: 20px;
-    color: #ffffff;
+    
 }
-.contenedor__cabecera strong{
+.contenedor__cabecera span{
     font-size: 15px;
-    color: #ffffff;
 }
